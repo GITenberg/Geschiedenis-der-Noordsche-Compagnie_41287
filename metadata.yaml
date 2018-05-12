@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/41094
     wikipedia: http://nl.wikipedia.org/wiki/Samuel_Muller_Fz.
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41287#Geschiedenis-der-Noordsche-Compagnie
 gutenberg_issued: '2012-11-04'
 gutenberg_type: Text
 identifiers:
