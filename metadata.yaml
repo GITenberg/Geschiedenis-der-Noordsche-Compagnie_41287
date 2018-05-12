@@ -1,0 +1,40 @@
+_repo: Geschiedenis-der-Noordsche-Compagnie_41287
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41287-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Muller, Samuel
+    alias: Muller, S. (Samuel)
+    birthdate: 1848
+    deathdate: 1922
+    gutenberg_agent_id: '41094'
+    url: http://www.gutenberg.org/2009/agents/41094
+    wikipedia: http://nl.wikipedia.org/wiki/Samuel_Muller_Fz.
+description: ''
+gutenberg_issued: '2012-11-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41287'
+  lccn: '03027707'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Names, Geographical -- Norway -- Spitsbergen Island'
+- !lcsh 'Noordse Compagnie'
+- !lcsh 'Spitsbergen Island (Norway)'
+- !lcsh 'Whaling'
+- !lcc 'HF'
+- !lcsh 'North Pole'
+- !lcsh 'Arctic regions'
+- !lcsh 'Greenland'
+tableOfContents: Inleiding -- De Nederlanders in de Ijszee (1565-1613) -- De Noordsche
+  compagnie -- De walvischvangst der Noordsche Compagnie -- De vestigingen der Noordsche
+  Compagnie -- Ontdekkingsreizen der Noordsche Compagnie -- Engelsche mededingers
+  -- Deensche pretensiën -- Oneenigheden met Franschen en Zuid-Nederlanders -- Binnenlandsche
+  wedijver -- Bijlagen.
+title: Geschiedenis der Noordsche Compagnie
+url: http://www.gutenberg.org/ebooks/41287
